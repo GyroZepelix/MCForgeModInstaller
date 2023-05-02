@@ -1,0 +1,331 @@
+{
+    "data": [
+        {
+            "id": 3931285,
+            "gameId": 432,
+            "modId": 491890,
+            "isAvailable": true,
+            "displayName": "[Forge 1.18.2] Etched 2.2.0",
+            "fileName": "etched-forge-2.2.0+1.18.2.jar",
+            "releaseType": 1,
+            "fileStatus": 4,
+            "hashes": [
+                {
+                    "value": "2907ebfd546e563be9cf489bcee5b56005695a2d",
+                    "algo": 1
+                },
+                {
+                    "value": "b5c7139a7b50e6550812d033cb072834",
+                    "algo": 2
+                }
+            ],
+            "fileDate": "2022-08-12T16:11:43.307Z",
+            "fileLength": 641481,
+            "downloadCount": 0,
+            "downloadUrl": "https://edge.forgecdn.net/files/3931/285/etched-forge-2.2.0+1.18.2.jar",
+            "gameVersions": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersions": [
+                {
+                    "gameVersionName": "1.18.2",
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionName": "Forge",
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "dependencies": [
+                {
+                    "modId": 544350,
+                    "relationType": 3
+                }
+            ],
+            "alternateFileId": 0,
+            "isServerPack": false,
+            "fileFingerprint": 776098289,
+            "modules": [
+                {
+                    "name": "META-INF",
+                    "fingerprint": 4155573752
+                },
+                {
+                    "name": "etched-common.mixins.json",
+                    "fingerprint": 27158272
+                },
+                {
+                    "name": "assets",
+                    "fingerprint": 2526478135
+                },
+                {
+                    "name": "etched-common-refmap.json",
+                    "fingerprint": 445960920
+                },
+                {
+                    "name": "javazoom",
+                    "fingerprint": 1413990753
+                },
+                {
+                    "name": "pack.mcmeta",
+                    "fingerprint": 3952706429
+                },
+                {
+                    "name": "logo.png",
+                    "fingerprint": 1276436553
+                },
+                {
+                    "name": "icon.png",
+                    "fingerprint": 3983739908
+                },
+                {
+                    "name": "etched.mixins.json",
+                    "fingerprint": 4062993316
+                },
+                {
+                    "name": "data",
+                    "fingerprint": 4206763331
+                },
+                {
+                    "name": "etched-forge-forge-refmap.json",
+                    "fingerprint": 2317879274
+                },
+                {
+                    "name": "gg",
+                    "fingerprint": 3991677598
+                },
+                {
+                    "name": "architectury_inject_etched_common_db9cb8a20a0041f0b6bda61b551f02e7_8d7d88ecb6617ff9b2f2754b461cc3bedd606e84e4becdd9a1daa941b40afc65etched2201182devjar",
+                    "fingerprint": 2624999357
+                }
+            ]
+        },
+        {
+            "id": 3924365,
+            "gameId": 432,
+            "modId": 491890,
+            "isAvailable": true,
+            "displayName": "[Forge 1.18.2] Etched 2.1.0",
+            "fileName": "etched-forge-2.1.0+1.18.2.jar",
+            "releaseType": 1,
+            "fileStatus": 4,
+            "hashes": [
+                {
+                    "value": "c3f60635512a844450ef22e8db9a716f654bc4da",
+                    "algo": 1
+                },
+                {
+                    "value": "3888c6f26927f4c2b1ee4fe22cdd7a39",
+                    "algo": 2
+                }
+            ],
+            "fileDate": "2022-08-08T06:44:08.567Z",
+            "fileLength": 623577,
+            "downloadCount": 0,
+            "downloadUrl": "https://edge.forgecdn.net/files/3924/365/etched-forge-2.1.0+1.18.2.jar",
+            "gameVersions": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersions": [
+                {
+                    "gameVersionName": "1.18.2",
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionName": "Forge",
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "dependencies": [
+                {
+                    "modId": 544350,
+                    "relationType": 3
+                }
+            ],
+            "alternateFileId": 0,
+            "isServerPack": false,
+            "fileFingerprint": 4264708572,
+            "modules": [
+                {
+                    "name": "META-INF",
+                    "fingerprint": 1493804386
+                },
+                {
+                    "name": "etched-common.mixins.json",
+                    "fingerprint": 2305642089
+                },
+                {
+                    "name": "assets",
+                    "fingerprint": 3352418121
+                },
+                {
+                    "name": "etched-common-refmap.json",
+                    "fingerprint": 4073819075
+                },
+                {
+                    "name": "javazoom",
+                    "fingerprint": 1413990753
+                },
+                {
+                    "name": "pack.mcmeta",
+                    "fingerprint": 3952706429
+                },
+                {
+                    "name": "logo.png",
+                    "fingerprint": 1276436553
+                },
+                {
+                    "name": "icon.png",
+                    "fingerprint": 3983739908
+                },
+                {
+                    "name": "etched.mixins.json",
+                    "fingerprint": 2514488864
+                },
+                {
+                    "name": "data",
+                    "fingerprint": 3512106303
+                },
+                {
+                    "name": "etched-forge-forge-refmap.json",
+                    "fingerprint": 3523838392
+                },
+                {
+                    "name": "gg",
+                    "fingerprint": 4119097620
+                },
+                {
+                    "name": "architectury_inject_etched_common_db9cb8a20a0041f0b6bda61b551f02e7_0df4d1a67f74af01a87845f0674359f92c41c1b936cdbd0866e6a540a18adcfaetched2101182devjar",
+                    "fingerprint": 3159312314
+                }
+            ]
+        },
+        {
+            "id": 3908346,
+            "gameId": 432,
+            "modId": 491890,
+            "isAvailable": true,
+            "displayName": "[Forge 1.18.2] Etched 2.0.0",
+            "fileName": "etched-forge-2.0.0+1.18.2.jar",
+            "releaseType": 1,
+            "fileStatus": 4,
+            "hashes": [
+                {
+                    "value": "0009fca853f9518d75fd62e53b3858c2514636a0",
+                    "algo": 1
+                },
+                {
+                    "value": "93cbdad3170b494f7425a604122ef0d9",
+                    "algo": 2
+                }
+            ],
+            "fileDate": "2022-07-30T18:44:20.673Z",
+            "fileLength": 621679,
+            "downloadCount": 0,
+            "downloadUrl": "https://edge.forgecdn.net/files/3908/346/etched-forge-2.0.0+1.18.2.jar",
+            "gameVersions": [
+                "1.18.2",
+                "Forge"
+            ],
+            "sortableGameVersions": [
+                {
+                    "gameVersionName": "1.18.2",
+                    "gameVersionPadded": "0000000001.0000000018.0000000002",
+                    "gameVersion": "1.18.2",
+                    "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+                    "gameVersionTypeId": 73250
+                },
+                {
+                    "gameVersionName": "Forge",
+                    "gameVersionPadded": "0",
+                    "gameVersion": "",
+                    "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+                    "gameVersionTypeId": 68441
+                }
+            ],
+            "dependencies": [
+                {
+                    "modId": 544350,
+                    "relationType": 3
+                }
+            ],
+            "alternateFileId": 0,
+            "isServerPack": false,
+            "fileFingerprint": 2002665534,
+            "modules": [
+                {
+                    "name": "META-INF",
+                    "fingerprint": 2458510243
+                },
+                {
+                    "name": "etched-common.mixins.json",
+                    "fingerprint": 2305642089
+                },
+                {
+                    "name": "assets",
+                    "fingerprint": 3402177730
+                },
+                {
+                    "name": "etched-common-refmap.json",
+                    "fingerprint": 4073819075
+                },
+                {
+                    "name": "javazoom",
+                    "fingerprint": 1413990753
+                },
+                {
+                    "name": "pack.mcmeta",
+                    "fingerprint": 3952706429
+                },
+                {
+                    "name": "logo.png",
+                    "fingerprint": 1276436553
+                },
+                {
+                    "name": "icon.png",
+                    "fingerprint": 3983739908
+                },
+                {
+                    "name": "etched.mixins.json",
+                    "fingerprint": 2514488864
+                },
+                {
+                    "name": "data",
+                    "fingerprint": 3512106303
+                },
+                {
+                    "name": "etched-forge-forge-refmap.json",
+                    "fingerprint": 3523838392
+                },
+                {
+                    "name": "gg",
+                    "fingerprint": 4138106099
+                },
+                {
+                    "name": "architectury_inject_etched_common_db9cb8a20a0041f0b6bda61b551f02e7_b9aacbd361eecae81674686e79586f1082bde346d971c79d1f1589a0adc2bcb1etched2001182devjar",
+                    "fingerprint": 1055825707
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "index": 0,
+        "pageSize": 50,
+        "resultCount": 3,
+        "totalCount": 3
+    }
+}

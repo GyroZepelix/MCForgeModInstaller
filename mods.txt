@@ -1,0 +1,121 @@
+https://legacy.curseforge.com/minecraft/mc-mods/jei
+https://legacy.curseforge.com/minecraft/mc-mods/mouse-tweaks
+https://legacy.curseforge.com/minecraft/mc-mods/quark
+https://legacy.curseforge.com/minecraft/mc-mods/curios
+https://legacy.curseforge.com/minecraft/mc-mods/supplementaries
+https://legacy.curseforge.com/minecraft/mc-mods/comforts
+https://legacy.curseforge.com/minecraft/mc-mods/create
+https://legacy.curseforge.com/minecraft/mc-mods/farmers-delight
+https://legacy.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
+https://legacy.curseforge.com/minecraft/mc-mods/entityculling -optimisation `Need to test with create`
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-bridges
+https://legacy.curseforge.com/minecraft/mc-mods/polymorph
+https://legacy.curseforge.com/minecraft/mc-mods/carry-on
+https://legacy.curseforge.com/minecraft/mc-mods/storage-drawers
+https://legacy.curseforge.com/minecraft/mc-mods/fast-leaf-decay
+https://legacy.curseforge.com/minecraft/mc-mods/rubidium -optimisation
+https://legacy.curseforge.com/minecraft/mc-mods/fancymenu-forge `See if needed`
+https://legacy.curseforge.com/minecraft/mc-mods/alexs-mobs
+https://legacy.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm
+https://legacy.curseforge.com/minecraft/mc-mods/torchmaster
+https://legacy.curseforge.com/minecraft/mc-mods/aquaculture
+https://legacy.curseforge.com/minecraft/mc-mods/flywheel -optimisation
+https://legacy.curseforge.com/minecraft/mc-mods/decorative-blocks
+https://legacy.curseforge.com/minecraft/mc-mods/biomes-o-plenty -worldgen
+https://legacy.curseforge.com/minecraft/mc-mods/tough-as-nails
+https://legacy.curseforge.com/minecraft/mc-mods/serene-seasons
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-doors
+https://legacy.curseforge.com/minecraft/mc-mods/lootr `Need to see if we want this`
+https://legacy.curseforge.com/minecraft/mc-mods/better-compatibility-checker
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
+https://legacy.curseforge.com/minecraft/mc-mods/ai-improvements -optimisation `Need to be checked`
+https://legacy.curseforge.com/minecraft/mc-mods/legendary-tooltips
+https://legacy.curseforge.com/minecraft/mc-mods/ecologics
+https://legacy.curseforge.com/minecraft/mc-mods/visual-workbench
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-windows
+https://legacy.curseforge.com/minecraft/mc-mods/ambientsounds `Check performance impact`
+https://legacy.curseforge.com/minecraft/mc-mods/artifacts `Check balance + epic fight mod compatibility`
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-trapdoors
+https://legacy.curseforge.com/minecraft/mc-mods/mowzies-mobs `Check do we want this`
+https://legacy.curseforge.com/minecraft/mc-mods/corpse
+https://legacy.curseforge.com/minecraft/mc-mods/tips `Check if needed`
+https://legacy.curseforge.com/minecraft/mc-mods/nethers-delight
+https://legacy.curseforge.com/minecraft/mc-mods/advancement-plaques
+https://legacy.curseforge.com/minecraft/mc-mods/naturalist
+https://legacy.curseforge.com/minecraft/mc-mods/kleeslabs
+https://legacy.curseforge.com/minecraft/mc-mods/sound-physics-remastered `check performance`
+https://legacy.curseforge.com/minecraft/mc-mods/simple-voice-chat
+https://legacy.curseforge.com/minecraft/mc-mods/farsight
+https://legacy.curseforge.com/minecraft/mc-mods/reliquary-v1-3 `Config`
+https://legacy.curseforge.com/minecraft/mc-mods/easy-magic
+https://legacy.curseforge.com/minecraft/mc-mods/health-overlay
+https://legacy.curseforge.com/minecraft/mc-mods/champions `need to look into`
+https://legacy.curseforge.com/minecraft/mc-mods/chipped
+https://legacy.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition `Check for balance`
+https://legacy.curseforge.com/minecraft/mc-mods/hexerei
+https://legacy.curseforge.com/minecraft/mc-mods/tool-belt `check integration with EF`
+https://legacy.curseforge.com/minecraft/mc-mods/framedblocks
+https://legacy.curseforge.com/minecraft/mc-mods/item-highlighter
+https://legacy.curseforge.com/minecraft/mc-mods/dynamiclights-reforged -optimisation
+https://legacy.curseforge.com/minecraft/mc-mods/magnesium-extras -optimisation
+https://legacy.curseforge.com/minecraft/mc-mods/antique-atlas
+https://legacy.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+https://legacy.curseforge.com/minecraft/mc-mods/pick-up-notifier
+https://legacy.curseforge.com/minecraft/mc-mods/itemphysic
+https://legacy.curseforge.com/minecraft/mc-mods/valkyrien-skies
+https://legacy.curseforge.com/minecraft/mc-mods/create-big-cannons
+https://legacy.curseforge.com/minecraft/mc-mods/kotlin-for-forge
+https://legacy.curseforge.com/minecraft/mc-mods/pehkui
+https://legacy.curseforge.com/minecraft/mc-mods/macaws-furniture
+https://legacy.curseforge.com/minecraft/mc-mods/tumbleweed
+https://legacy.curseforge.com/minecraft/mc-mods/delightful
+https://legacy.curseforge.com/minecraft/mc-mods/nekos-enchanted-books
+https://legacy.curseforge.com/minecraft/mc-mods/equipment-compare
+https://legacy.curseforge.com/minecraft/mc-mods/rechiseled
+https://legacy.curseforge.com/minecraft/mc-mods/woodworks
+https://legacy.curseforge.com/minecraft/mc-mods/galosphere
+https://legacy.curseforge.com/minecraft/mc-mods/diagonal-fences
+https://legacy.curseforge.com/minecraft/mc-mods/wall-jump
+https://legacy.curseforge.com/minecraft/mc-mods/upgrade-aquatic
+https://legacy.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
+https://legacy.curseforge.com/minecraft/mc-mods/iris-flywheel-compat
+https://legacy.curseforge.com/minecraft/mc-mods/epic-fight-mod
+https://legacy.curseforge.com/minecraft/mc-mods/immersive-armors `Test with epicfight`
+https://legacy.curseforge.com/minecraft/mc-mods/origins-forge
+https://legacy.curseforge.com/minecraft/mc-mods/farmers-respite
+https://legacy.curseforge.com/minecraft/mc-mods/chimes
+https://legacy.curseforge.com/minecraft/mc-mods/model-gap-fix
+https://legacy.curseforge.com/minecraft/mc-mods/the-wild-backport
+https://legacy.curseforge.com/minecraft/mc-mods/first-aid
+https://legacy.curseforge.com/minecraft/mc-mods/relics-mod
+https://legacy.curseforge.com/minecraft/mc-mods/astikorcarts
+https://legacy.curseforge.com/minecraft/mc-mods/architects-palette
+https://legacy.curseforge.com/minecraft/mc-mods/create-deco
+https://legacy.curseforge.com/minecraft/mc-mods/alexs-delight
+https://legacy.curseforge.com/minecraft/mc-mods/cultural-delights
+https://legacy.curseforge.com/minecraft/mc-mods/healing-campfire
+https://legacy.curseforge.com/minecraft/mc-mods/dramatic-doors
+https://legacy.curseforge.com/minecraft/mc-mods/miners-helmet
+https://legacy.curseforge.com/minecraft/mc-mods/scuba-gear
+https://legacy.curseforge.com/minecraft/mc-mods/extra-alchemy
+https://legacy.curseforge.com/minecraft/mc-mods/cha-s
+https://legacy.curseforge.com/minecraft/mc-mods/atmospheric
+https://legacy.curseforge.com/minecraft/mc-mods/environmental
+https://legacy.curseforge.com/minecraft/mc-mods/eating-animation-fabric
+https://legacy.curseforge.com/minecraft/mc-mods/incubation
+https://legacy.curseforge.com/minecraft/mc-mods/tough-as-nails
+https://legacy.curseforge.com/minecraft/mc-mods/item-borders
+https://legacy.curseforge.com/minecraft/mc-mods/harvest-scythes
+https://legacy.curseforge.com/minecraft/mc-mods/autumnity
+https://legacy.curseforge.com/minecraft/mc-mods/festive-delight
+https://legacy.curseforge.com/minecraft/mc-mods/immersive-weathering-forge
+https://legacy.curseforge.com/minecraft/mc-mods/create-steam-n-rails
+https://legacy.curseforge.com/minecraft/mc-mods/slice-and-dice
+https://legacy.curseforge.com/minecraft/mc-mods/fantasys-furniture
+https://legacy.curseforge.com/minecraft/mc-mods/double-doors
+https://legacy.curseforge.com/minecraft/mc-mods/create-enchantment-industry
+https://legacy.curseforge.com/minecraft/mc-mods/serene-shrubbery
+https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting
+https://legacy.curseforge.com/minecraft/mc-mods/etched
+
+#https://legacy.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:9008&filter-sort=4&page=64
